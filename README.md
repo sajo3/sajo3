@@ -35,5 +35,11 @@ I am a 20-year-old Software Engineering student who loves building things that a
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sajahamid650@gmail.com) 
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!+&center=true&width=500&height=50&size=25&color=DB7093">
+</p>
+
+
 ---
 <p align="center"><i>"Building the future, one commit at a time."</i></p>
