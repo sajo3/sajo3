@@ -44,9 +44,9 @@ I am a 20-year-old Software Engineering student who loves building things that a
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sajahamid650@gmail.com) 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!+&center=true&width=500&height=50&size=25&color=DB7093">
-</p>
+<img height="120" alt="Thanks for visiting me" width="100%" 
+     src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" 
+     style="filter: invert(61%) sepia(35%) saturate(784%) hue-rotate(296deg) brightness(96%) contrast(92%);" />
 
 
 ---
