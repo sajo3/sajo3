@@ -6,38 +6,34 @@
   </a>
 </h1>
 
-### 👤 About Me
-<p>
-I am a 20-year-old <b>Software Engineering student</b> who loves building things that actually work. I enjoy creating functional, well-structured applications and solving complex logic problems through clean code.
+# 💫 About Me:
+I am a 20-year-old Software Engineering student who loves building things that actually work. I enjoy creating functional, well-structured applications and solving complex logic problems through clean code.<br><br>My journey involves a mix of Systems Engineering, Game Development, and a deep dive into Algorithms. I’m always looking for ways to level up my engineering skills, whether I'm optimizing a backend database or designing an interactive UI. When I’m not coding, I’m probably reading or exploring new automation workflows.
 
-My journey involves a mix of <b>Systems Engineering</b>, <b>Game Development</b>, and a deep dive into <b>Algorithms</b>. I’m always looking for ways to level up my engineering skills, whether I'm optimizing a backend database or designing an interactive UI. When I’m not coding, I’m probably reading or exploring new automation workflows.
-</p>
+
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sajo3&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sajo3&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajo3&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sajo3&icon=0&color=10)](https://visitcount.itsvg.in)
 
-### 🛠 Tech Stack & Tools
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="Unity" src="https://img.shields.io/badge/-Unity-ffffff?style=flat-square&logo=unity&logoColor=black" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="n8n" src="https://img.shields.io/badge/-n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
-</p>
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🤝 Connect with me
 <p>
 <a href="https://github.com/SajaAlansari" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/saja-alansari-537802360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sajahamid650@gmail.com) 
 
 ---
 <p align="center"><i>"Building the future, one commit at a time."</i></p>
